@@ -1,0 +1,141 @@
+<doc>
+    <dot>
+        <character text="E" morse="."/>
+        <dot>
+            <character text="I" morse=".."/>
+            <dot>
+                <character text="S" morse="..."/>
+                <dot>
+                    <character text="H" morse="...."/>
+                    <dot>
+                        <character text="5" morse="....."/>
+                    </dot>
+                    <dash>
+                        <character text="4" morse="....-"/>
+                    </dash>
+                </dot>
+                <dash>
+                    <character text="V" morse="...-"/>
+                    <dash>
+                        <character text="3" morse="...--"/>
+                    </dash>
+                </dash>
+            </dot>
+            <dash>
+                <character text="U" morse="..-"/>
+                <dot>
+                    <character text="F" morse="..-."/>
+                </dot>
+                <dash>
+                    <dot>
+                        <dot>
+                            <character text="?" morse="..--.."/>
+                        </dot>
+                    </dot>
+                    <dash>
+                        <character text="2" morse="..---"/>
+                    </dash>
+                </dash>
+            </dash>
+        </dot>
+        <dash>
+            <character text="A" morse=".-"/>
+            <dot>
+                <character text="R" morse=".-."/>
+                <dot>
+                    <character text="L" morse=".-.."/>
+                </dot>
+                <dash>
+                    <dot>
+                        <dash>
+                            <character text="." morse=".-.-.-"/>
+                        </dash>
+                    </dot>
+                </dash>
+            </dot>
+            <dash>
+                <character text="W" morse=".--"/>
+                <dot>
+                    <character text="P" morse=".--."/>
+                </dot>
+                <dash>
+                    <character text="J" morse=".---"/>
+                    <dash>
+                        <character text="1" morse=".----"/>
+                    </dash>
+                </dash>
+            </dash>
+        </dash>
+    </dot>
+    <dash>
+        <character text="T" morse="-"/>
+        <dot>
+            <character text="N" morse="-."/>
+            <dot>
+                <character text="D" morse="-.."/>
+                <dot>
+                    <character text="B" morse="-..."/>
+                    <dot>
+                        <character text="6" morse="-...."/>
+                    </dot>
+                </dot>
+                <dash>
+                    <character text="X" morse="-..-"/>
+                </dash>
+            </dot>
+            <dash>
+                <character text="K" morse="-.-"/>
+                <dot>
+                    <character text="C" morse="-.-."/>
+                    <dash>
+                        <dot>
+                            <character text=";" morse="-.-.-."/>
+                        </dot>
+                        <dash>
+                            <character text="!" morse="-.-.--"/>
+                        </dash>
+                    </dash>
+                </dot>
+                <dash>
+                    <character text="Y" morse="-.--"/>
+                </dash>
+            </dash>
+        </dot>
+        <dash>
+            <character text="M" morse="--"/>
+            <dot>
+                <character text="G" morse="--."/>
+                <dot>
+                    <character text="Z" morse="--.."/>
+                    <dot>
+                        <character text="7" morse="--..."/>
+                    </dot>
+                    <dash>
+                        <dash>
+                            <character text="," morse="--..--"/>
+                        </dash>
+                    </dash>
+                </dot>
+                <dash>
+                    <character text="Q" morse="--.-"/>
+                </dash>
+            </dot>
+            <dash>
+                <character text="O" morse="---"/>
+                <dot>
+                    <dot>
+                        <character text="8" morse="---.."/>
+                    </dot>
+                </dot>
+                <dash>
+                    <dot>
+                        <character text="9" morse="----."/>
+                    </dot>
+                    <dash>
+                        <character text="0" morse="-----"/>
+                    </dash>
+                </dash>
+            </dash>
+        </dash>
+    </dash>
+</doc>
