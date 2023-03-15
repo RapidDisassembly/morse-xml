@@ -1,4 +1,5 @@
 <doc>
+    <character text=" " morse="/"/>
     <dot>
         <character text="E" morse="."/>
         <dot>
